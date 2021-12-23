@@ -1,6 +1,4 @@
-<center>
-## Sisterhoods
-</center>
+## Aplikasi Sisterhoods Untuk Aspirasi Wanita
 
 
 ## About Laravel
